@@ -1,4 +1,7 @@
 # BuddyBot
+
+BuddyBot is a Discord bot for playing your own audio snippets. **It is no longer in development and may not work.** 
+
 You will need [discordgo](https://github.com/bwmarrin/discordgo).
 
 This bot is an edited version of the [Airhorn](https://github.com/hammerandchisel/airhornbot) bot example form DiscordGo.
